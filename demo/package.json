@@ -1,0 +1,19 @@
+{
+	"name": "demo",
+	"version": "0.0.1",
+	"private": true,
+	"license": "MIT",
+	"dependencies": {
+		"@lekoarts/gatsby-plugin-starter": "*",
+		"gatsby": "^4.19.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"scripts": {
+		"develop": "gatsby develop",
+		"build": "gatsby build",
+		"serve": "gatsby serve",
+		"clean": "gatsby clean"
+	},
+	"packageManager": "yarn@3.2.2"
+}

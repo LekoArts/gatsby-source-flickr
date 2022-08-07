@@ -1,0 +1,3 @@
+# demo
+
+Showcase of `plugin`.

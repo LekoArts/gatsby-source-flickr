@@ -1,0 +1,82 @@
+{
+  "photo": {
+    "id": "52233028776",
+    "secret": "3315fd32a5",
+    "server": "65535",
+    "farm": 66,
+    "dateuploaded": "1658475294",
+    "isfavorite": 0,
+    "license": 0,
+    "safety_level": 0,
+    "rotation": 0,
+    "owner": {
+      "nsid": "192975453@N04",
+      "username": "ars_aurea",
+      "realname": "",
+      "location": "",
+      "iconserver": 0,
+      "iconfarm": 0,
+      "path_alias": "",
+      "gift": {
+        "gift_eligible": "1",
+        "eligible_durations": ["year", "month", "week"],
+        "new_flow": "1"
+      }
+    },
+    "title": {
+      "_content": "Lisbon Ursa Beach"
+    },
+    "description": {
+      "_content": "Beach directly at a cliff"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1658475294",
+      "taken": "2022-07-22 09:34:16",
+      "takengranularity": 0,
+      "takenunknown": 1,
+      "lastupdate": "1660140239"
+    },
+    "views": 6,
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 0
+    },
+    "comments": {
+      "_content": 0
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/192975453@N04/52233028776/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

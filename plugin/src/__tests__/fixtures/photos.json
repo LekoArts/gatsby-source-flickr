@@ -1,0 +1,24 @@
+{
+  "photos": {
+    "page": 1,
+    "pages": 1,
+    "perpage": 100,
+    "total": 1,
+    "photo": [
+      {
+        "id": "52272129779",
+        "owner": "101058950@N02",
+        "secret": "87a0c8e97c",
+        "server": "65535",
+        "farm": 66,
+        "title": "Summer in Norway",
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0,
+        "is_primary": 1,
+        "has_comment": 0
+      }
+    ]
+  },
+  "stat": "ok"
+}

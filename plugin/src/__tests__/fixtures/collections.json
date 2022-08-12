@@ -1,0 +1,46 @@
+{
+  "collections": {
+    "collection": [
+      {
+        "id": "192943314-72157720955999963",
+        "title": "Photography",
+        "description": "",
+        "iconlarge": "https://combo.staticflickr.com/pw/images/collection_default_l.gif",
+        "iconsmall": "https://combo.staticflickr.com/pw/images/collection_default_s.gif",
+        "set": [
+          {
+            "id": "72177720300725827",
+            "title": "Tyrol",
+            "description": ""
+          },
+          {
+            "id": "72177720300723631",
+            "title": "Lisbon",
+            "description": ""
+          },
+          {
+            "id": "72177720300725812",
+            "title": "Lake Constance",
+            "description": ""
+          },
+          {
+            "id": "72177720300725802",
+            "title": "Carinthia",
+            "description": ""
+          },
+          {
+            "id": "72177720300735393",
+            "title": "Los Angeles & San Francisco",
+            "description": ""
+          },
+          {
+            "id": "72177720300732834",
+            "title": "Croatia & Slovenia",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  "stat": "ok"
+}

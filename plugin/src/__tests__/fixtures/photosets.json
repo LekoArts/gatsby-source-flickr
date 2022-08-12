@@ -1,0 +1,219 @@
+{
+  "photosets": {
+    "page": 1,
+    "pages": 1,
+    "perpage": "500",
+    "total": 8,
+    "photoset": [
+      {
+        "id": "72177720300725827",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "52232997816",
+        "secret": "2dd80a4222",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 5,
+        "count_videos": 0,
+        "title": {
+          "_content": "Tyrol"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475606",
+        "date_update": "1658475609",
+        "photos": 5,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300723631",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "52233026556",
+        "secret": "e36ef72797",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 2,
+        "count_comments": 0,
+        "count_photos": 13,
+        "count_videos": 0,
+        "title": {
+          "_content": "Lisbon"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475593",
+        "date_update": "1658475594",
+        "photos": 13,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300725812",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51550054541",
+        "secret": "0203aa700a",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 7,
+        "count_videos": 0,
+        "title": {
+          "_content": "Lake Constance"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475564",
+        "date_update": "1658475566",
+        "photos": 7,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300725802",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51169943322",
+        "secret": "2532665095",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 5,
+        "count_videos": 0,
+        "title": {
+          "_content": "Carinthia"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475541",
+        "date_update": "1658475543",
+        "photos": 5,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300735393",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51169934972",
+        "secret": "d556b3ee93",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 4,
+        "count_videos": 0,
+        "title": {
+          "_content": "Los Angeles & San Francisco"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475520",
+        "date_update": "1658475521",
+        "photos": 4,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300732834",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51171327954",
+        "secret": "36cdf66a05",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 5,
+        "count_videos": 0,
+        "title": {
+          "_content": "Croatia & Slovenia"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475494",
+        "date_update": "1658475495",
+        "photos": 5,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300725772",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51192466315",
+        "secret": "726cf1bd7d",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 7,
+        "count_videos": 0,
+        "title": {
+          "_content": "Design"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475440",
+        "date_update": "1658475442",
+        "photos": 7,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      },
+      {
+        "id": "72177720300732809",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "primary": "51171614644",
+        "secret": "54625610a5",
+        "server": "65535",
+        "farm": 66,
+        "count_views": 0,
+        "count_comments": 0,
+        "count_photos": 8,
+        "count_videos": 0,
+        "title": {
+          "_content": "3D"
+        },
+        "description": {
+          "_content": ""
+        },
+        "can_comment": 0,
+        "date_create": "1658475408",
+        "date_update": "1658475411",
+        "photos": 8,
+        "videos": 0,
+        "visibility_can_see_set": 1,
+        "needs_interstitial": 0
+      }
+    ]
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "galleries": {
+    "total": 1,
+    "per_page": 1,
+    "user_id": "192975453@N04",
+    "page": 1,
+    "pages": 1,
+    "gallery": [
+      {
+        "id": "192943314-72157720948388688",
+        "gallery_id": "72157720948388688",
+        "url": "https://www.flickr.com/photos/192975453@N04/galleries/72157720948388688",
+        "owner": "192975453@N04",
+        "username": "ars_aurea",
+        "iconserver": 0,
+        "iconfarm": 0,
+        "primary_photo_id": "52272129779",
+        "date_create": "1660070193",
+        "date_update": "1660070210",
+        "count_photos": 1,
+        "count_videos": 0,
+        "count_total": 0,
+        "count_views": 0,
+        "count_comments": 0,
+        "title": {
+          "_content": "Inspiration"
+        },
+        "description": {
+          "_content": ""
+        },
+        "sort_group": "",
+        "primary_photo_server": "65535",
+        "primary_photo_farm": 66,
+        "primary_photo_secret": "87a0c8e97c"
+      }
+    ]
+  },
+  "stat": "ok"
+}

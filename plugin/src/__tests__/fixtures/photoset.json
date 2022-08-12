@@ -1,0 +1,72 @@
+{
+  "photoset": {
+    "id": "72177720300725827",
+    "primary": "52232997816",
+    "owner": "192975453@N04",
+    "ownername": "ars_aurea",
+    "photo": [
+      {
+        "id": "52232997816",
+        "secret": "2dd80a4222",
+        "server": "65535",
+        "farm": 66,
+        "title": "Valley",
+        "isprimary": 1,
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      },
+      {
+        "id": "52233268999",
+        "secret": "c743131477",
+        "server": "65535",
+        "farm": 66,
+        "title": "Mountain Lake 2",
+        "isprimary": 0,
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      },
+      {
+        "id": "52233269039",
+        "secret": "04b1d441c4",
+        "server": "65535",
+        "farm": 66,
+        "title": "Mountain Lake",
+        "isprimary": 0,
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      },
+      {
+        "id": "52233004308",
+        "secret": "621743df10",
+        "server": "65535",
+        "farm": 66,
+        "title": "Mountain Top",
+        "isprimary": 0,
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      },
+      {
+        "id": "52233269134",
+        "secret": "3d10ff330e",
+        "server": "65535",
+        "farm": 66,
+        "title": "Valley View",
+        "isprimary": 0,
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      }
+    ],
+    "page": 1,
+    "per_page": "500",
+    "perpage": "500",
+    "pages": 1,
+    "title": "Tyrol",
+    "total": 5
+  },
+  "stat": "ok"
+}

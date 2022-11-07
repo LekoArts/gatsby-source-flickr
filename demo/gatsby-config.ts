@@ -5,10 +5,13 @@ import type { FlickrPluginOptions } from "@lekoarts/gatsby-source-flickr"
 const config: GatsbyConfig = {
   siteMetadata: {
     siteTitle: `@lekoarts/gatsby-source-flickr`,
-    siteUrl: `https://urltodeployeddemo.com`,
+    siteUrl: `https://gatsbysourceflickrexample.gatsbyjs.io/`,
   },
   jsxRuntime: `automatic`,
-  graphqlTypegen: true,
+  graphqlTypegen: {
+    generateOnBuild: true,
+  },
+  trailingSlash: `never`,
   plugins: [
     {
       resolve: `@lekoarts/gatsby-source-flickr`,

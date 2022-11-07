@@ -25,5 +25,3 @@ jobs:
         run: yarn --immutable
       - name: Run Vitest
         run: yarn test:run
-      - name: Run TypeScript
-        run: yarn typecheck

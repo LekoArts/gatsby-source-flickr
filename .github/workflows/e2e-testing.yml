@@ -51,5 +51,7 @@ jobs:
         run: npx playwright install chromium --with-deps
       - name: Build Gatsby Site
         run: yarn build
+        env:
+          api_key: ${{ secrets.API_KEY }}
       - name: Run Playwright
         run: yarn e2e:build

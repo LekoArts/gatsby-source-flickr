@@ -2136,7 +2136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lekoarts/gatsby-source-flickr@^0.0.1, @lekoarts/gatsby-source-flickr@workspace:plugin":
+"@lekoarts/gatsby-source-flickr@^0.1.0, @lekoarts/gatsby-source-flickr@workspace:plugin":
   version: 0.0.0-use.local
   resolution: "@lekoarts/gatsby-source-flickr@workspace:plugin"
   dependencies:
@@ -6996,7 +6996,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "demo@workspace:demo"
   dependencies:
-    "@lekoarts/gatsby-source-flickr": ^0.0.1
+    "@lekoarts/gatsby-source-flickr": ^0.1.0
     gatsby: ^5.0.0-next.0
     react: ^18.2.0
     react-dom: ^18.2.0

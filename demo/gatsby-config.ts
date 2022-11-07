@@ -8,7 +8,9 @@ const config: GatsbyConfig = {
     siteUrl: `https://gatsbysourceflickrexample.gatsbyjs.io/`,
   },
   jsxRuntime: `automatic`,
-  graphqlTypegen: true,
+  graphqlTypegen: {
+    generateOnBuild: true,
+  },
   trailingSlash: `never`,
   plugins: [
     {

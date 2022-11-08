@@ -1,5 +1,11 @@
 # @lekoarts/gatsby-source-flickr
 
+## 0.1.1
+
+### Patch Changes
+
+- [#4](https://github.com/LekoArts/gatsby-source-flickr/pull/4) [`b90eb15`](https://github.com/LekoArts/gatsby-source-flickr/commit/b90eb15aae4d4f3459e308ec2db1bebe371628ec) Thanks [@LekoArts](https://github.com/LekoArts)! - Moving from Beta release of Gatsby 5 to stable release.
+
 ## 0.1.0
 
 ### Minor Changes

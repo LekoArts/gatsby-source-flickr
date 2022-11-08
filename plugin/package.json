@@ -1,6 +1,6 @@
 {
   "name": "@lekoarts/gatsby-source-flickr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Source images from Flickr into Gatsby",
   "main": "dist/gatsby-node.js",
   "source": "src/gatsby-node.ts",

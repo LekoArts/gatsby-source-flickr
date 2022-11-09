@@ -71,7 +71,7 @@ export default IndexPage
 
 export const query = graphql`
   fragment PublicPhotos on Query {
-    publicPhotos: allFlickrPeoplePublicPhotos(sort: { fields: datetaken, order: ASC }, limit: 3) {
+    publicPhotos: allFlickrPeoplePublicPhotos(sort: { datetaken: ASC }, limit: 3) {
       nodes {
         title
         description
@@ -85,7 +85,7 @@ export const query = graphql`
   }
 
   fragment Photosets on Query {
-    photosets: allFlickrPhotosetsList(sort: { fields: date_create, order: ASC }, limit: 3) {
+    photosets: allFlickrPhotosetsList(sort: { date_create: ASC }, limit: 3) {
       nodes {
         title
         content {

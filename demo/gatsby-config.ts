@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
   graphqlTypegen: {
     generateOnBuild: true,
   },
-  trailingSlash: `never`,
+  trailingSlash: `always`,
   plugins: [
     {
       resolve: `@lekoarts/gatsby-source-flickr`,

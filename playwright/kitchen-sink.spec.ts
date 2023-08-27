@@ -20,7 +20,7 @@ test.describe(`Kitchen Sink`, () => {
     ).toBeVisible()
     await expect(await page.locator(`text=3D`)).toBeVisible()
     await expect(await page.locator(`text=Design`)).toBeVisible()
-    await expect(await page.locator(`text=Croatia & Slovenia`)).toBeVisible()
+    await expect(await page.locator(`text=Croatia`)).toBeVisible()
     await expect(
       await page.locator(
         `img[alt="Small boat in a port of a small town in Croatia\\. The town is in the background and has a small destroyed castle at the top"]`

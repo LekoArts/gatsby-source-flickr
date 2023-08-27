@@ -24,15 +24,15 @@
   "homepage": "https://github.com/LekoArts/gatsby-source-flickr",
   "license": "MIT",
   "dependencies": {
-    "got": "^11.8.5"
+    "got": "^11.8.6"
   },
   "devDependencies": {
-    "@parcel/packager-ts": "^2.7.0",
-    "@parcel/transformer-typescript-types": "^2.7.0",
-    "del-cli": "^5.0.0",
-    "gatsby": "^5.0.0",
-    "gatsby-plugin-utils": "^4.0.0",
-    "parcel": "^2.7.0"
+    "@parcel/packager-ts": "^2.9.3",
+    "@parcel/transformer-typescript-types": "^2.9.3",
+    "del-cli": "^5.0.1",
+    "gatsby": "^5.12.1",
+    "gatsby-plugin-utils": "^4.12.0",
+    "parcel": "^2.9.3"
   },
   "keywords": [
     "gatsby",
